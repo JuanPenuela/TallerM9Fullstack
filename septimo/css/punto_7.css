@@ -1,0 +1,14 @@
+.menu{
+    background-color: rgb(206, 166, 217);
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+.links{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.links:hover{
+    background-color: blue;
+}

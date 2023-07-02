@@ -1,0 +1,31 @@
+#principal{
+    line-height: 33px;
+    margin: auto;
+    width: 50%;
+}
+#p1{
+    color: green;
+    text-decoration: underline;
+}
+#p2{
+    color: red;
+    font-weight: bold;
+}
+#p3{
+    text-decoration: overline underline; 
+}
+#p4{
+    font-size: 40px;
+    font-weight: bold; 
+}
+#p5{
+    font-size: 20px;
+    color: blue;
+    font-weight: bold; 
+}
+#p6{
+    font-size: 20px;
+    color: red;
+    text-decoration: underline;
+    font-weight: bold; 
+}

@@ -1,0 +1,28 @@
+table{
+    width: 60%;
+    background-color: yellow;
+    margin: auto;
+    border: 1px black solid;
+    margin-top: 20px;
+    border-spacing: 0px;
+    border-style: dotted;
+    border-bottom-color: red;
+    border-bottom-style: dashed;
+}
+td{
+    border: 1px dotted black;
+    border-style: dotted;
+}
+th{
+    color: red;
+}
+#e{
+    font-size: 25px;
+}
+#p{
+    font-size: 25px;
+}
+.celda3{
+    border-bottom-color: red;
+    border-bottom-style: dashed;
+}
